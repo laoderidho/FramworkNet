@@ -1,0 +1,15 @@
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\bin\Debug\net6.0\FramworkNet.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\bin\Debug\net6.0\FramworkNet.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\bin\Debug\net6.0\FramworkNet.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\bin\Debug\net6.0\FramworkNet.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\bin\Debug\net6.0\FramworkNet.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.csproj.AssemblyReference.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.AssemblyInfoInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.AssemblyInfo.cs
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.csproj.CoreCompileInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\refint\FramworkNet.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\FramworkNet.genruntimeconfig.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\obj\Debug\net6.0\ref\FramworkNet.dll
