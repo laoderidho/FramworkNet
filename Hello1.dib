@@ -1,8 +1,0 @@
-#!markdown
-
-#Belajar C# Itu Menyenangkan :v 
-Mari belajar bersama
-
-#!csharp
-
-Console.WriteLine("Hello, Ridho")
