@@ -1,2 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Ridho!");
+using System; 
+
+namespace Basics {
+    class Program{
+        static void Main(string[] args){
+            Console.WriteLine("Hello Ridho");
+
+        }
+    }
+}
