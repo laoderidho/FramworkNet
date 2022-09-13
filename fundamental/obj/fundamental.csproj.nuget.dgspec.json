@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\hello\\hello.csproj": {}
+    "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\fundamental\\fundamental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\hello\\hello.csproj": {
+    "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\fundamental\\fundamental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\hello\\hello.csproj",
-        "projectName": "hello",
-        "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\hello\\hello.csproj",
+        "projectUniqueName": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\fundamental\\fundamental.csproj",
+        "projectName": "fundamental",
+        "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\fundamental\\fundamental.csproj",
         "packagesPath": "C:\\Users\\La Ode Ridho Fahreza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\hello\\obj\\",
+        "outputPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\fundamental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\La Ode Ridho Fahreza\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\bin\Debug\net6.0\fundamental.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\bin\Debug\net6.0\fundamental.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\bin\Debug\net6.0\fundamental.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\bin\Debug\net6.0\fundamental.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\bin\Debug\net6.0\fundamental.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.csproj.AssemblyReference.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.AssemblyInfoInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.AssemblyInfo.cs
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.csproj.CoreCompileInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\refint\fundamental.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\fundamental.genruntimeconfig.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\fundamental\obj\Debug\net6.0\ref\fundamental.dll
