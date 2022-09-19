@@ -1,0 +1,15 @@
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\bin\Debug\net6.0\2081007_asigment1.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\bin\Debug\net6.0\2081007_asigment1.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\bin\Debug\net6.0\2081007_asigment1.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\bin\Debug\net6.0\2081007_asigment1.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\bin\Debug\net6.0\2081007_asigment1.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.csproj.AssemblyReference.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.AssemblyInfoInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.AssemblyInfo.cs
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.csproj.CoreCompileInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\refint\2081007_asigment1.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\2081007_asigment1.genruntimeconfig.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\2081007_asigment1\obj\Debug\net6.0\ref\2081007_asigment1.dll
