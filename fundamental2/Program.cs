@@ -2,7 +2,7 @@
 
 Write("Berapa jumlah mahasiswa yang hadir di kelas =");
 
-string? input= ReadLine(); //untuk mempersilahkan input yang masukcls
+string? input= ReadLine(); //untuk mempersilahkan input yang masuk
 
 if(int.TryParse(input, out int count)){
     WriteLine($"Ada {count} mahasiswa yang hadir saat ini");
