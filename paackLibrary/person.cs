@@ -7,4 +7,11 @@ namespace paackt.Shared;
         public string nama;
         public DateTime tanggalLahir;
         public gender jk; //object dari enum gender yang menyatakan jenis kelamin
+        
+    // contoh field penamaan dalam tuple 
+
+    public(string, int)GetFruit(){
+        return ("apple", 44);
     }
+    }
+

@@ -7,3 +7,5 @@ jack.tanggalLahir = new System.DateTime(2002,07,26);
 jack.jk = gender.pria;
 
 WriteLine(format: "{0} lahir pada tanggal {1: d MMMM yyyy} dan berjenis kelamin {2}", arg0: jack.nama, arg1: jack.tanggalLahir, arg2: jack.jk);
+
+(string, int) buah =
