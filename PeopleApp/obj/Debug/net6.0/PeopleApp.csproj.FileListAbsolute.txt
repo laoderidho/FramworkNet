@@ -19,3 +19,8 @@ C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\
 C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
 C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.pdb

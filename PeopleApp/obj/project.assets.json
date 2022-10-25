@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/paackLibrary.dll": {}
         }
+      },
+      "PacktLibraryModern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        }
       }
     }
   },
@@ -19,10 +29,16 @@
       "type": "project",
       "path": "../paackLibrary/paackLibrary.csproj",
       "msbuildProject": "../paackLibrary/paackLibrary.csproj"
+    },
+    "PacktLibraryModern/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibraryModern/PacktLibraryModern.csproj",
+      "msbuildProject": "../PacktLibraryModern/PacktLibraryModern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "PacktLibraryModern >= 1.0.0",
       "paackLibrary >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
           "projectReferences": {
             "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\paackLibrary\\paackLibrary.csproj": {
               "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\paackLibrary\\paackLibrary.csproj"
+            },
+            "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibraryModern\\PacktLibraryModern.csproj": {
+              "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibraryModern\\PacktLibraryModern.csproj"
             }
           }
         }
