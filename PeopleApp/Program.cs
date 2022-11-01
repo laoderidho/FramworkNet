@@ -1,18 +1,28 @@
-﻿using Packt.Shared;
+﻿// See https://aka.ms/new-console-template for more information
+using Packt.Shared;
 using static System.Console;
 
-Person harry = new() { Name = "Harry" };
-Person mary = new() { Name = "Mary" };
-Person jill = new() { Name = "Jill" };
-// call instance method
-Person baby1 = mary.ProcreateWith(harry);
-baby1.Name = "Gary";
-// call static method
-Person baby2 = Person.Procreate(harry, jill);
-WriteLine($"{harry.Name} has {harry.Children.Count} children.");
-WriteLine($"{mary.Name} has {mary.Children.Count} children.");
-WriteLine($"{jill.Name} has {jill.Children.Count} children.");
-WriteLine(
-format: "{0}'s first child is named \"{1}\".",
-arg0: harry.Name,
-arg1: harry.Children[0].Name);
+Person ms = new(); //inisialisasi objek dari kelas person
+
+ms.nama = "Johansen Sagala";
+ms.tanggalLahir = new System.DateTime(2001,06,05);
+ms.jk = gender.Pria;
+
+// WriteLine(format: "{0} lahir pada tanggal {1: d MMMM yyyy} berjenis kelamin {2}", arg0: ms.nama, arg1: ms.tanggalLahir, arg2: ms.jk);
+
+Person ms2 = new();
+ms2.jk = gender.Pria;
+WriteLine(format: "{0} lahir pada tanggal: {1: d MMMM yyyy}, dan berasal dari {2}",
+arg0: ms2.nama,
+arg1: ms2.tanggalLahir,
+arg2: ms2.HomeTown);
+
+Person ms3 = new(nama_manusia:"Meilani", asal:"Depok", dob: new System.DateTime(2002,05,09));
+ms3.tanggalLahir = new System.DateTime(2002,05,09);
+WriteLine(format: "{0} lahir pada tanggal: {1: d MMMM yyyy}, dan berasal dari {2}",
+arg0: ms3.nama,
+arg1: ms3.tanggalLahir,
+arg2: ms3.HomeTown);
+
+var saudara = ms3.GetSiblings();
+WriteLine($"{ms3.nama} memiliki {saudara.jumlah} saudara {saudara.jenis_kelamin}");

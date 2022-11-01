@@ -1,0 +1,30 @@
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\bin\Debug\net6.0\PacktLibrary.exe
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\bin\Debug\net6.0\PacktLibrary.runtimeconfig.json
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\PacktLibrary.genruntimeconfig.cache
+C:\Users\62813\Documents\UNAI\Tingkat 3 Semester 1\Pemrograman Framework .NET\latihan\introduction\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\bin\Debug\net6.0\PacktLibrary.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\bin\Debug\net6.0\PacktLibrary.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\PacktLibrary.genruntimeconfig.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll

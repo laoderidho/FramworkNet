@@ -2,44 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "paackLibrary/1.0.0": {
+      "PacktLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/paackLibrary.dll": {}
+          "bin/placeholder/PacktLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/paackLibrary.dll": {}
-        }
-      },
-      "PacktLibraryModern/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/PacktLibraryModern.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PacktLibraryModern.dll": {}
+          "bin/placeholder/PacktLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "paackLibrary/1.0.0": {
+    "PacktLibrary/1.0.0": {
       "type": "project",
-      "path": "../paackLibrary/paackLibrary.csproj",
-      "msbuildProject": "../paackLibrary/paackLibrary.csproj"
-    },
-    "PacktLibraryModern/1.0.0": {
-      "type": "project",
-      "path": "../PacktLibraryModern/PacktLibraryModern.csproj",
-      "msbuildProject": "../PacktLibraryModern/PacktLibraryModern.csproj"
+      "path": "../PacktLibrary/PacktLibrary.csproj",
+      "msbuildProject": "../PacktLibrary/PacktLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "PacktLibraryModern >= 1.0.0",
-      "paackLibrary >= 1.0.0"
+      "PacktLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -67,11 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\paackLibrary\\paackLibrary.csproj": {
-              "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\paackLibrary\\paackLibrary.csproj"
-            },
-            "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibraryModern\\PacktLibraryModern.csproj": {
-              "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibraryModern\\PacktLibraryModern.csproj"
+            "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "C:\\Users\\La Ode Ridho Fahreza\\OneDrive\\Documents\\Alpro II\\Dokumen\\framework.net\\FramworkNet\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }

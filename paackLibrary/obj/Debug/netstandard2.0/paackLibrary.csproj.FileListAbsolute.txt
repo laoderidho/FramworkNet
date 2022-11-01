@@ -1,5 +1,0 @@
-C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\paackLibrary\obj\Debug\netstandard2.0\paackLibrary.csproj.AssemblyReference.cache
-C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\paackLibrary\obj\Debug\netstandard2.0\paackLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\paackLibrary\obj\Debug\netstandard2.0\paackLibrary.AssemblyInfoInputs.cache
-C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\paackLibrary\obj\Debug\netstandard2.0\paackLibrary.AssemblyInfo.cs
-C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\paackLibrary\obj\Debug\netstandard2.0\paackLibrary.csproj.CoreCompileInputs.cache
