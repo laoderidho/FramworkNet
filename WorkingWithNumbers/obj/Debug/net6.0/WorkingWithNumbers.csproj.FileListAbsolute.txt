@@ -1,0 +1,15 @@
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.exe
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.deps.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\refint\WorkingWithNumbers.dll
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\La Ode Ridho Fahreza\OneDrive\Documents\Alpro II\Dokumen\framework.net\FramworkNet\WorkingWithNumbers\obj\Debug\net6.0\ref\WorkingWithNumbers.dll

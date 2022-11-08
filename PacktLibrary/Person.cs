@@ -1,33 +1,34 @@
-﻿using System;
-using static System.Console;
-
-// namespace Packt.Shared{
-
-// }
-
+﻿using static System.Console;
 namespace Packt.Shared;
-public class Person : System.Object
+public class Person : object
 {
-    public string nama;
-    public DateTime tanggalLahir;
-    public gender jk; //object dari enum gender yang menyatakan jenis kelamin
-    public const string Species = "Manusia";
-    public readonly string HomeTown = "Bandung";
-
-    public Person(){
-        nama = "unknown"; //nilai awal dari variabel/field nama
-        tanggalLahir = DateTime.Now;
-    } //constructor pertama dari kelas person
-
-    public Person(string nama_manusia, string asal, DateTime dob){
-        nama = nama_manusia;
-        HomeTown = asal;
-        tanggalLahir = dob;
-    } //constructor kedua dari kelas person
-
-    //contoh multiple 
-
-    public (string jenis_kelamin, int jumlah) GetSiblings(){
-        return ("Perempuan", 2);
-    }
+ // fields
+ public string? Name; // the ? sign allows null
+ public DateTime DateOfBirth;
+ public List<Person> Children = new(); // C# 9 or later
+ // methods
+ public void WriteToConsole()
+ {
+ WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+  }
+  public static Person Procreate(Person p1, Person p2)
+{
+ Person baby = new()
+ {
+ Name = $"Baby of {p1.Name} and {p2.Name}"
+ };
+ p1.Children.Add(baby);
+ p2.Children.Add(baby);
+ return baby;
+}
+// instance method to "multiply"
+public Person ProcreateWith(Person partner)
+{
+ return Procreate(this, partner);
+}
+  // overridden methods
+  public override string ToString()
+  {
+  return $"{Name} is a {base.ToString()}";
+  }
 }
